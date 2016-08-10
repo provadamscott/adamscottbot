@@ -1,16 +1,16 @@
 {
-  "name": "your-bot-name",
+  "name": "misterscottbot",
   "version": "1.0.0",
-  "description": "your-description",
+  "description": "A bot made by mister scott",
   "main": "server.js",
   "scripts": {
     "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+your-repo-url"
+    "url": "https://github.com/provadamscott/misterscottbot"
   },
-  "author": "your-name",
+  "author": "misterscott",
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^3.1.1",
